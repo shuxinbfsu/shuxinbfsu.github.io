@@ -1,0 +1,243 @@
+@charset "utf-8";
+@font-face{
+	font-family:'georgia';
+	src:url('./georgia.TTF') format('truetype');
+	src:url('./georgiab.TTF') format('truetype');
+	src:url('./georgiai.TTF') format('truetype');
+	src:url('./georgiaz.TTF') format('truetype');
+	font-family:'times new roman';
+	src:url('./times.TTF') format('truetype');
+	src:url('./timesbd.TTF') format'(truetype');
+	src:url('./timesi.TTF') format('truetype');
+	src:url('./timesbi.TTF') format('truetype');
+	font-family:'sans-serif';
+	src:url('./sserife.fon') format('truetype');
+}
+.nav{
+	width:700px;
+	height:30px;
+	background:#A05363;
+	font-family:Times New Roman;
+}
+
+.britpop{
+	background-color:rgb(207,205,180);
+	color:black;
+	margin:50px;
+	padding:100px;
+}
+.background{
+	background-color:rgb(207,205,180);
+	color:black;
+	margin:50px;
+	padding:100px;
+}
+.origins{
+	background-color:rgb(207,205,180);
+	color:black;
+	margin:50px;
+	padding:100px;
+}
+.style{
+	background-color:rgb(207,205,180);
+	color:black;
+	margin:50px;
+	padding:100px;
+}
+.representatives{
+	background-color:rgb(207,205,180);
+	color:black;
+	margin:50px;
+	padding:100px;
+}
+.battle{
+	background-color:rgb(207,205,180);
+	color:black;
+	margin:50px;
+	padding:100px;
+}
+.decline{
+	background-color:rgb(207,205,180);
+	color:black;
+	margin:50px;
+	padding:100px;
+}
+.influence{
+	background-color: rgb(207,205,180);
+	color: rgb(0,0,0);
+	margin: 50px;
+	padding: 100px;
+}
+.references{
+	background-color:rgb(207,205,180);
+	color:black;
+	margin:50px;
+	padding:100px;
+}
+
+#footer {
+    background-color:white;
+    color: rgb(51,51,51);
+    clear:both;
+    text-align:center;
+	font-size:10px;
+	font-family:georgia;
+}
+body{
+	background-color: #EAEAEA;
+	line-height:30px;
+	text-align:center;
+}
+h1{
+	alignment-adjust: text-before-edge;
+	font-size: 200px;
+	font-style: oblique;
+	text-shadow: 3px 7px 0px rgb(255,255,255);
+	font-family:times new roman;
+}
+h3,li strong{
+	color: #804040;
+	font-size:24px;
+	text-align:left;
+	font-family:Times New Roman;
+}
+h4{
+	font-size:36px;
+	font-family:Times New Roman;
+}
+p{
+	text-indent: 1em;
+	font-size: 24px;
+	font-family:Times New Roman;
+}
+h2{
+	font-family:Times New Roman;
+	font-size:48px;
+}
+h6{
+	font-size: 10px;
+	line-height: 5px;
+	color: rgb(51,51,51);
+	font-family: sans-serif;
+}
+
+#image{
+	margin:0 auto;
+	border:40px solid #A05363;
+	width:500px;
+}
+#image1{
+	margin:0 auto;
+	border:40px solid #A05363;
+	width:300px;
+}
+#image2{
+	margin:0 auto;
+	border:40px solid #A05363;
+	width:300px;
+}
+#image3{
+	margin:0 auto;
+	border:40px solid #A05363;
+	width:300px;
+}
+#image4{
+	margin:0 auto;
+	border:40px solid #A05363;
+	width:500px;
+}
+#image5{
+	margin:0 auto;
+	border:40px solid #A05363;
+	width:500px;
+}
+#image6{
+	margin:0 auto;
+	border:40px solid #A05363;
+	width:300px;
+}
+#image7{
+	margin:0 auto;
+	border:40px solid #A05363;
+	width:500px;
+}
+li{
+	display:inline;
+}
+a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.top a{
+	color:#A05363;
+}
+.top1 a{
+	color:#A05363;
+}
+.top2 a{
+	color:#A05363;
+}
+.top3 a{
+	color:#A05363;
+}
+.top4 a{
+	color:#A05363;
+}
+.top5 a{
+	color:#A05363;
+}
+.top6 a{
+	color:#A05363;
+}
+.top7 a{
+	color:#A05363;
+}
+.top8 a{
+	color:#A05363;
+}
+.blur a{
+	color:#A05363;
+}
+.oasis a{
+	color:#A05363;
+}
+.suede a{
+	color:#A05363;
+}
+.pulp a{
+	color:#A05363;
+}
+.text{
+	color:rgb(153,153,153);
+	font-family:Times New Roman;
+}
+.text1{
+	color:rgb(153,153,153);
+	font-family:Times New Roman;
+}
+.text2{
+	color:rgb(153,153,153);
+	font-family:Times New Roman;
+}
+.text3{
+	color:rgb(153,153,153);
+	font-family:Times New Roman;
+}
+.text4{
+	color:rgb(153,153,153);
+	font-family:Times New Roman;
+}
+p{
+	color: rgb(51,51,51);
+	font-family:Times New Roman;
+}
+#bands{
+	margin:0 auto;
+	border:40px solid #A05363;
+	width:300px;
+}
+#battle{
+	margin:0 auto;
+	border:40px solid #A05363;
+	width:300px;
+}
